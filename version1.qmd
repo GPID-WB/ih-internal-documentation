@@ -1,0 +1,29 @@
+# IH's 1st edition {.unnumbered}
+
+For this first Edition, four projects have been submitted:
+
+## 1. Equivalence Scales
+
+```         
+  (Dean & Samuel)
+  
+```
+
+## 2. I/C Conversion
+
+```         
+  (Daniel)
+```
+
+## 3. Scaling consistent with National Accounts
+
+```         
+  (Espen & Daniel)
+  
+```
+
+## 4. Rural...
+
+```         
+  (Shohei Nakamura)
+```

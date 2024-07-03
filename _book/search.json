@@ -1,0 +1,163 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Innovation Hub - Internal Documentation",
+    "section": "",
+    "text": "Intro\nThis book has been created to document all the steps and decisions made on the implementation of the Innovation Hub (IH) for the Poverty & Inequality Platform (PIP)."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "filing.html",
+    "href": "filing.html",
+    "title": "1  Filing",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "data_submission.html",
+    "href": "data_submission.html",
+    "title": "2  Data Submission",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "versioning.html",
+    "href": "versioning.html",
+    "title": "Versioning",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "index.html#objectives",
+    "href": "index.html#objectives",
+    "title": "Innovation Hub - Internal Documentation",
+    "section": "Objectives",
+    "text": "Objectives\nThe Innovation Hub intends to be a place to showcase experimental poverty and inequality measures, and analyze how these methodologies would compared to official PIP numbers."
+  },
+  {
+    "objectID": "index.html#requisites",
+    "href": "index.html#requisites",
+    "title": "Innovation Hub - Internal Documentation",
+    "section": "Requisites",
+    "text": "Requisites\nProposals submitted should be “generalizable”. This means, they must be applicable to/and produce estimates for “all” economies, the world, and world regions.\nIn order to be showcased in PIP’s Innovation Hub, Authors must submit the following outputs:\n\nDATA: a.dta file with poverty rates ($2.15, $3.65 & $6.85 a day) and inequality estimates(?) for all economies, world and world regions.\nMetadata:\nMethodological note: a 1-2 pager summarizing the proposed methodology. Should be available for public use."
+  },
+  {
+    "objectID": "index.html#the-innovation-hub",
+    "href": "index.html#the-innovation-hub",
+    "title": "Innovation Hub - Internal Documentation",
+    "section": "The Innovation Hub",
+    "text": "The Innovation Hub\n\nObjective\nThe Innovation Hub intends to be a place to showcase experimental poverty and inequality methodologies, and analyze how these alternative methods would compared to official PIP numbers.\n\n\nRequisites\nProposals submitted should be “generalizable”. This means, they must be applicable to/and produce estimates for “all” economies, the world, and world regions.\nIn order to be showcased in PIP’s Innovation Hub, Authors must submit the following outputs:\n\nDATA: a.dta file with poverty rates ($2.15, $3.65 & $6.85 a day) and inequality estimates(?) for all economies, world and world regions.\nMetadata:\nMethodological note: a 1-2 pager summarizing the proposed methodology. Should be available for public use."
+  },
+  {
+    "objectID": "index.html#objective",
+    "href": "index.html#objective",
+    "title": "Innovation Hub - Internal Documentation",
+    "section": "Objective",
+    "text": "Objective\nThe Innovation Hub intends to be a place to showcase experimental poverty and inequality methodologies, and analyze how those alternative methods would compared to official PIP numbers."
+  },
+  {
+    "objectID": "criteria.html#objective",
+    "href": "criteria.html#objective",
+    "title": "Criteria",
+    "section": "Objective",
+    "text": "Objective\nThe Innovation Hub intends to be a place to showcase experimental poverty and inequality methodologies, and analyze how those alternative methods would compared to official PIP numbers."
+  },
+  {
+    "objectID": "criteria.html#requisites",
+    "href": "criteria.html#requisites",
+    "title": "Criteria",
+    "section": "Requisites",
+    "text": "Requisites\nProposals submitted should be “generalizable”. This means, they must be applicable to/and produce estimates for “all” economies, the world, and world regions.\nIn order to be showcased in PIP’s Innovation Hub, Authors must submit the following outputs:\n\nDATA: a.dta file with poverty rates ($2.15, $3.65 & $6.85 a day) and inequality estimates(?) for all economies, world and world regions.\nMetadata:\nMethodological note: a 1-2 pager summarizing the proposed methodology. Should be available for public use. This short document must contain link to actual paper."
+  },
+  {
+    "objectID": "version.html#equivalent-scales",
+    "href": "version.html#equivalent-scales",
+    "title": "IH - version 1",
+    "section": "1. Equivalent Scales",
+    "text": "1. Equivalent Scales\n  (Dean & Samuel)"
+  },
+  {
+    "objectID": "version.html#ic-conversion",
+    "href": "version.html#ic-conversion",
+    "title": "IH’s 1st edition",
+    "section": "2. I/C Conversion",
+    "text": "2. I/C Conversion\n  (Daniel)"
+  },
+  {
+    "objectID": "version.html#scaling-consistent-with-national-accounts",
+    "href": "version.html#scaling-consistent-with-national-accounts",
+    "title": "IH’s 1st edition",
+    "section": "3. Scaling consistent with National Accounts",
+    "text": "3. Scaling consistent with National Accounts\n  (Espen & Daniel)"
+  },
+  {
+    "objectID": "version.html#rural",
+    "href": "version.html#rural",
+    "title": "IH’s 1st edition",
+    "section": "4. Rural…",
+    "text": "4. Rural…\n  (Shohei Nakamura)"
+  },
+  {
+    "objectID": "version.html#equivalence-scales",
+    "href": "version.html#equivalence-scales",
+    "title": "IH’s 1st edition",
+    "section": "1. Equivalence Scales",
+    "text": "1. Equivalence Scales\n  (Dean & Samuel)"
+  },
+  {
+    "objectID": "version1.html#equivalence-scales",
+    "href": "version1.html#equivalence-scales",
+    "title": "IH’s 1st edition",
+    "section": "1. Equivalence Scales",
+    "text": "1. Equivalence Scales\n  (Dean & Samuel)"
+  },
+  {
+    "objectID": "version1.html#ic-conversion",
+    "href": "version1.html#ic-conversion",
+    "title": "IH’s 1st edition",
+    "section": "2. I/C Conversion",
+    "text": "2. I/C Conversion\n  (Daniel)"
+  },
+  {
+    "objectID": "version1.html#scaling-consistent-with-national-accounts",
+    "href": "version1.html#scaling-consistent-with-national-accounts",
+    "title": "IH’s 1st edition",
+    "section": "3. Scaling consistent with National Accounts",
+    "text": "3. Scaling consistent with National Accounts\n  (Espen & Daniel)"
+  },
+  {
+    "objectID": "version1.html#rural",
+    "href": "version1.html#rural",
+    "title": "IH’s 1st edition",
+    "section": "4. Rural…",
+    "text": "4. Rural…\n  (Shohei Nakamura)"
+  },
+  {
+    "objectID": "site.html",
+    "href": "site.html",
+    "title": "Website",
+    "section": "",
+    "text": "Building the IH’s website …"
+  }
+]

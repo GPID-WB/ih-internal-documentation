@@ -1,0 +1,29 @@
+project:
+  type: book
+
+book:
+  title: "Innovation Hub - Internal Documentation"
+  author: "GPID Team"
+  date: "7/3/2024"
+  chapters:
+    - index.qmd
+    - criteria.qmd
+    - part: "Steps"
+      chapters:
+      - filing.qmd
+      - data_submission.qmd
+    - part: "Editions"
+      chapters:
+      - version1.qmd
+    - site.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

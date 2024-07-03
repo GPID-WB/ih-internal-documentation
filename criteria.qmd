@@ -1,0 +1,17 @@
+# Criteria {.unnumbered}
+
+## Objective
+
+The Innovation Hub intends to be a place to showcase [experimenta]{.underline}l poverty and inequality methodologies, and analyze how those alternative methods would compared to official PIP numbers.
+
+## Requisites
+
+Proposals submitted should be "generalizable". This means, they must be applicable to/and produce estimates for "all" economies, the world, and world regions.
+
+In order to be showcased in PIP's Innovation Hub, Authors must submit the following outputs:
+
+1.  **DATA:** a.dta file with poverty rates (\$2.15, \$3.65 & \$6.85 a day) and inequality estimates(?) for all economies, world and world regions.
+
+2.  **Metadata**:
+
+3.  **Methodological note**: a 1-2 pager summarizing the proposed methodology. Should be available for public use. This short document must contain link to actual paper.
