@@ -2,28 +2,26 @@
 
 For this first Edition, four projects have been submitted:
 
-## 1. Equivalence Scales
+## 1. Poverty rates using Equivalence Scales
 
-```         
-  (Dean & Samuel)
-  
-```
+*Source:* Jolliffe, Dean, and Samuel Kofi Tetteh Baah. "[Identifying the poor–Accounting for household economies of scale in global poverty estimates](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099116210172210147/idu0d253ce79097d604a370b4dd086b73941ff60)*.*" World Development 179 (2024): 106593.
 
-## 2. I/C Conversion
+**Contact person:** Samuel
 
-```         
-  (Daniel)
-```
+## 2. Poverty rates using Income-Consumption conversion
 
-## 3. Scaling consistent with National Accounts
+*Source*: Wollburg, Philip, Stephane Hallegatte, and Daniel Gerszon Mahler. "[Ending extreme poverty has a negligible impact on global greenhouse gas emissions](https://www.nature.com/articles/s41586-023-06679-0.pdf)." *Nature* 623, no. 7989 (2023): 982-986.
 
-```         
-  (Espen & Daniel)
-  
-```
+**Contact person:** Daniel
 
-## 4. Rural...
+## 3. Poverty rates scaled to National Accounts means (and consequently redrawn poverty lines)
 
-```         
-  (Shohei Nakamura)
-```
+*Source*: Prydz, Espen Beer, Dean Jolliffe, and Umar Serajuddin. "[Disparities in assessments of living standards using national accounts and household surveys](https://onlinelibrary.wiley.com/doi/pdf/10.1111/roiw.12577)." Review of Income and Wealth 68 (2022): S385-S420.
+
+**Contact person:** Espen
+
+## 4. Country-level poverty rates consistent with Urban/Rural definitions
+
+*Source*: Nakamura, Shohei, Pierre-Philippe Combes, Robin Moellerherm, Charlotte Robert, Mark Roberts, Benjamin Stewart, and Slava Yakubenko. “[Where is Poverty Concentrated? New Evidence Based on Internationally Consistent Urban and Poverty Measurements](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099823311272312886/idu047ac48f0062ea04222098780cda70c42240d)” World Bank Policy Research Working Paper No. 10620 (2023).
+
+**Contact person:** Shohei?

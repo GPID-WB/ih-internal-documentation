@@ -20,40 +20,6 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
 </style>
 
 
@@ -185,13 +151,28 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </li>
       </ul>
   </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./site.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Website</span></a>
+  </div>
+</li>
     </ul>
     </div>
 </nav>
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#data-file" id="toc-data-file" class="nav-link active" data-scroll-target="#data-file"><span class="header-section-number">2.0.1</span> Data file</a></li>
+  <li><a href="#metadata-file" id="toc-metadata-file" class="nav-link" data-scroll-target="#metadata-file"><span class="header-section-number">2.0.2</span> Metadata file</a></li>
+  <li><a href="#methodological-note" id="toc-methodological-note" class="nav-link" data-scroll-target="#methodological-note"><span class="header-section-number">2.0.3</span> Methodological Note</a></li>
+  <li><a href="#submission-portal" id="toc-submission-portal" class="nav-link" data-scroll-target="#submission-portal"><span class="header-section-number">2.1</span> Submission Portal</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -213,15 +194,30 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 </header>
 
-<p>In summary, this book has no content whatsoever.</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="dv">1</span> <span class="sc">+</span> <span class="dv">1</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
-</div>
-</div>
+<p>Authors wishing to showcase their work in PIP Innovation Hub are required to submit three main inputs: 1) a <code>.dta</code> file fulfilling the stated requirements with the global, regional and/or country-level poverty estimates produced from their method; 2) metadata information; and 3), a brief methodological note. The details and specific formats for each component are described as follows:</p>
+<section id="data-file" class="level3" data-number="2.0.1">
+<h3 data-number="2.0.1" class="anchored" data-anchor-id="data-file"><span class="header-section-number">2.0.1</span> Data file</h3>
+<p>Data submitted must contain global and/or regional estimates of poverty or at least span many countries. It shoudl algo be tagged to a particular PIP vintage to foster comparability and interoperability with the latest estimates Data must be submitted in <code>.dta</code> format. The following is a template with the specific columns and labels to be included:</p>
+<p><code>dta_template.dta</code></p>
+<p>[<span style="color:red">should we include a table with vars here?</span>]</p>
+</section>
+<section id="metadata-file" class="level3" data-number="2.0.2">
+<h3 data-number="2.0.2" class="anchored" data-anchor-id="metadata-file"><span class="header-section-number">2.0.2</span> Metadata file</h3>
+<p>The metadata file consists on all relevant information on your paper such as title, description, dates, URLs, indicators and economies included/excluded, etc. This information must be submitted through an Excel file, filling out one single row with 21 columns:</p>
+<p><code>metadata_template.xlsx</code></p>
+</section>
+<section id="methodological-note" class="level3" data-number="2.0.3">
+<h3 data-number="2.0.3" class="anchored" data-anchor-id="methodological-note"><span class="header-section-number">2.0.3</span> Methodological Note</h3>
+<p>Finally, authors should provide brief details on the approach in a methodological note, describing the issue with current poverty/inequality estimates it is trying to address. This note should not be longer than 3 paragraphs, and must include official link to paper.</p>
+<p><code>methodological_note_template.tex</code></p>
+</section>
+<section id="submission-portal" class="level2" data-number="2.1">
+<h2 data-number="2.1" class="anchored" data-anchor-id="submission-portal"><span class="header-section-number">2.1</span> Submission Portal</h2>
+<p>Finally, the three inputs described in the previous section must be submitted through the following portal:</p>
+<p>[URL: ]</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

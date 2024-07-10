@@ -158,6 +158,41 @@
     "href": "site.html",
     "title": "Website",
     "section": "",
-    "text": "Building the IH’s website …"
+    "text": "Building the IH’s website. UI ideas:\n\nAtlas of Sustainable Goals (scrolling down)\nWB Development Economics (swiping right)\nLAC Equity Lab (Tableau dashboard)\nOur World in Data (cluster of dashboards “Interactive Charts on Poverty”)\n\nFIGMA Prototypes:\nhttps://www.figma.com/design/LKRqKOW0O4vuyeHYlcfx3Q/PIP’s-Innovation-Hub-(prototypes)?node-id=6-2&t=xQ2fpYCtVSJh2MMk-1\nWB image collection:\nhttps://www.flickr.com/photos/worldbank/albums/with/72157645353664062"
+  },
+  {
+    "objectID": "version1.html#poverty-rates-using-equivalence-scales",
+    "href": "version1.html#poverty-rates-using-equivalence-scales",
+    "title": "IH’s 1st edition",
+    "section": "1. Poverty rates using Equivalence Scales",
+    "text": "1. Poverty rates using Equivalence Scales\nSource: Jolliffe, Dean, and Samuel Kofi Tetteh Baah. “Identifying the poor–Accounting for household economies of scale in global poverty estimates.” World Development 179 (2024): 106593.\nContact person: Samuel"
+  },
+  {
+    "objectID": "version1.html#poverty-rates-using-income-consumption-conversion",
+    "href": "version1.html#poverty-rates-using-income-consumption-conversion",
+    "title": "IH’s 1st edition",
+    "section": "2. Poverty rates using Income-Consumption conversion",
+    "text": "2. Poverty rates using Income-Consumption conversion\nSource: Wollburg, Philip, Stephane Hallegatte, and Daniel Gerszon Mahler. “Ending extreme poverty has a negligible impact on global greenhouse gas emissions.” Nature 623, no. 7989 (2023): 982-986.\nContact person: Daniel"
+  },
+  {
+    "objectID": "version1.html#poverty-rates-scaled-to-national-accounts-means-and-consequently-redrawn-poverty-lines",
+    "href": "version1.html#poverty-rates-scaled-to-national-accounts-means-and-consequently-redrawn-poverty-lines",
+    "title": "IH’s 1st edition",
+    "section": "3. Poverty rates scaled to National Accounts means (and consequently redrawn poverty lines)",
+    "text": "3. Poverty rates scaled to National Accounts means (and consequently redrawn poverty lines)\nSource: Prydz, Espen Beer, Dean Jolliffe, and Umar Serajuddin. “Disparities in assessments of living standards using national accounts and household surveys.” Review of Income and Wealth 68 (2022): S385-S420.\nContact person: Espen"
+  },
+  {
+    "objectID": "version1.html#country-level-poverty-rates-consistent-with-urbanrural-definitions",
+    "href": "version1.html#country-level-poverty-rates-consistent-with-urbanrural-definitions",
+    "title": "IH’s 1st edition",
+    "section": "4. Country-level poverty rates consistent with Urban/Rural definitions",
+    "text": "4. Country-level poverty rates consistent with Urban/Rural definitions\nSource: Nakamura, Shohei, Pierre-Philippe Combes, Robin Moellerherm, Charlotte Robert, Mark Roberts, Benjamin Stewart, and Slava Yakubenko. “Where is Poverty Concentrated? New Evidence Based on Internationally Consistent Urban and Poverty Measurements” World Bank Policy Research Working Paper No. 10620 (2023).\nContact person: Shohei?"
+  },
+  {
+    "objectID": "data_submission.html#submission-portal",
+    "href": "data_submission.html#submission-portal",
+    "title": "2  Data Submission",
+    "section": "2.1 Submission Portal",
+    "text": "2.1 Submission Portal\nFinally, the three inputs described in the previous section must be submitted through the following portal:\n[URL: ]"
   }
 ]

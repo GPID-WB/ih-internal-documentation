@@ -1,3 +1,19 @@
 # Website {.unnumbered}
 
-Building the IH's website ...
+Building the IH's website. UI ideas:
+
+-   [Atlas of Sustainable Goals](https://datatopics.worldbank.org/sdgatlas/goal-1-no-poverty?lang=en) (scrolling down)
+
+-   [WB Development Economics](https://www.worldbank.org/en/about/unit/unit-dec) (swiping right)
+
+-   [LAC Equity Lab](https://www.worldbank.org/en/topic/poverty/lac-equity-lab1/poverty/head-count) (Tableau dashboard)
+
+-   [Our World in Data](https://ourworldindata.org/poverty) (cluster of dashboards "Interactive Charts on Poverty")
+
+**FIGMA Prototypes:**
+
+[https://www.figma.com/design/LKRqKOW0O4vuyeHYlcfx3Q/PIP's-Innovation-Hub-(prototypes)?node-id=6-2&t=xQ2fpYCtVSJh2MMk-1](https://www.figma.com/design/LKRqKOW0O4vuyeHYlcfx3Q/PIP's-Innovation-Hub-(prototypes)?node-id=6-2&t=xQ2fpYCtVSJh2MMk-1)
+
+**WB image collection:**
+
+<https://www.flickr.com/photos/worldbank/albums/with/72157645353664062>

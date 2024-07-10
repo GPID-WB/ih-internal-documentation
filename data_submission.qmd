@@ -1,7 +1,29 @@
 # Data Submission
 
-In summary, this book has no content whatsoever.
+Authors wishing to showcase their work in PIP Innovation Hub are required to submit three main inputs: 1) a `.dta` file fulfilling the stated requirements with the global, regional and/or country-level poverty estimates produced from their method; 2) metadata information; and 3), a brief methodological note. The details and specific formats for each component are described as follows:
 
-```{r}
-1 + 1
-```
+### Data file
+
+Data submitted must contain global and/or regional estimates of poverty or at least span many countries. It shoudl algo be tagged to a particular PIP vintage to foster comparability and interoperability with the latest estimates Data must be submitted in `.dta` format. The following is a template with the specific columns and labels to be included:
+
+`dta_template.dta`
+
+\[[should we include a table with vars here?]{style="color:red"}\]
+
+### Metadata file
+
+The metadata file consists on all relevant information on your paper such as title, description, dates, URLs, indicators and economies included/excluded, etc. This information must be submitted through an Excel file, filling out one single row with 21 columns:
+
+`metadata_template.xlsx`
+
+### Methodological Note
+
+Finally, authors should provide brief details on the approach in a methodological note, describing the issue with current poverty/inequality estimates it is trying to address. This note should not be longer than 3 paragraphs, and must include official link to paper.
+
+`methodological_note_template.tex`
+
+## Submission Portal
+
+Finally, the three inputs described in the previous section must be submitted through the following portal:
+
+\[URL: \]
